@@ -38,8 +38,8 @@ autoinstall:
   identity:
     hostname: codetihng-ThinkPad-P14s-Gen-4
     password: $6$I0kFjwOPMwii7L90$oxlvexAKJ.gAx8KDE2Zb/tZqaQ.h5mESkJCZhkFeQ7DN9nsVUMvNhVNG9mslGUHVx0E8HA3LXfNFmLeHcqG3T.
-    realname: codetihng
-    username: codetihng
+    realname: codething
+    username: codething
   kernel:
     package: linux-generic-hwe-24.04
   keyboard:
